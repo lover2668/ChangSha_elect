@@ -2854,10 +2854,11 @@
   text-transform:none;
 }
 #u79 {
-  border-width:0px;
-  position:absolute;
-  left:90px;
-  top:481px;
+  position:fixed;
+  left:50%;
+  margin-left:-575.5px;
+  top:50%;
+  margin-top:-353px;
   width:1151px;
   height:706px;
   visibility:hidden;
