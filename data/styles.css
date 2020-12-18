@@ -10,7 +10,11 @@
   line-height:normal;
   text-transform:none;
 }
+.box_2 {
+}
 .button {
+}
+.line {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -67,6 +71,9 @@
 }
 .box_1 {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -79,12 +86,28 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
 .table_cell {
 }
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
 }
 .box_3 {
 }
@@ -94,5 +117,7 @@
   text-align:left;
 }
 .icon {
+}
+.image {
 }
 textarea, select, input, button { outline: none; }
