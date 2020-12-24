@@ -90,6 +90,8 @@
 }
 .table_cell {
 }
+._线段 {
+}
 .form_hint {
   color:#999999;
 }
@@ -123,6 +125,25 @@
 .box_11 {
 }
 ._图片_ {
+}
+.paragraph {
+  text-align:left;
+}
+.line1 {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
 .image1 {
   color:#000000;
