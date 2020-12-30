@@ -14,6 +14,9 @@
 }
 .button {
 }
+.link_button {
+  color:#169BD5;
+}
 .line {
 }
 ._一级标题 {
@@ -64,10 +67,21 @@
 ._文本段落 {
   text-align:left;
 }
+._图片 {
+}
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .box_1 {
 }
@@ -77,6 +91,11 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.box_21 {
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
 }
 .text_area {
   color:#000000;
@@ -92,10 +111,29 @@
 }
 ._线段 {
 }
+._连接 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+}
+.sticky_1 {
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
 .heading_2 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -118,7 +156,12 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .icon {
+}
+._形状1 {
 }
 .image {
 }
@@ -126,12 +169,12 @@
 }
 ._图片_ {
 }
-.paragraph {
+.paragraph1 {
   text-align:left;
 }
 .line1 {
 }
-.heading_1 {
+.heading_11 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
@@ -148,9 +191,21 @@
 .image1 {
   color:#000000;
 }
+.tree_node {
+  text-align:left;
+}
+._形状2 {
+}
 .shape {
 }
+.connector {
+}
+.ellipse {
+}
 .checkbox1 {
+  text-align:left;
+}
+.tree_node1 {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
